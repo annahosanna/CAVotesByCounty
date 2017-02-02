@@ -1,0 +1,524 @@
+[
+  {
+    "Clinton": 1601382,
+    "Trump": 525308,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Los Angeles",
+    "Vote by town": "",
+    "Place": "Los Angeles"
+  },
+  {
+    "Clinton": 396712,
+    "Trump": 357174,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Orange",
+    "Vote by town": "",
+    "Place": "Orange"
+  },
+  {
+    "Clinton": 390531,
+    "Trump": 269422,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Diego",
+    "Vote by town": "",
+    "Place": "San Diego"
+  },
+  {
+    "Clinton": 228731,
+    "Trump": 219359,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Riverside",
+    "Vote by town": "",
+    "Place": "Riverside"
+  },
+  {
+    "Clinton": 220853,
+    "Trump": 188080,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Bernardino",
+    "Vote by town": "",
+    "Place": "San Bernardino"
+  },
+  {
+    "Clinton": 312994,
+    "Trump": 91990,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Santa Clara",
+    "Vote by town": "",
+    "Place": "Santa Clara"
+  },
+  {
+    "Clinton": 300185,
+    "Trump": 59384,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Alameda",
+    "Vote by town": "",
+    "Place": "Alameda"
+  },
+  {
+    "Clinton": 186237,
+    "Trump": 114359,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Sacramento",
+    "Vote by town": "",
+    "Place": "Sacramento"
+  },
+  {
+    "Clinton": 201936,
+    "Trump": 76743,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Contra Costa",
+    "Vote by town": "",
+    "Place": "Contra Costa"
+  },
+  {
+    "Clinton": 228211,
+    "Trump": 26461,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Francisco",
+    "Vote by town": "",
+    "Place": "San Francisco"
+  },
+  {
+    "Clinton": 136848,
+    "Trump": 97516,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Ventura",
+    "Vote by town": "",
+    "Place": "Ventura"
+  },
+  {
+    "Clinton": 152134,
+    "Trump": 37996,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Mateo",
+    "Vote by town": "",
+    "Place": "San Mateo"
+  },
+  {
+    "Clinton": 82863,
+    "Trump": 79858,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Fresno",
+    "Vote by town": "",
+    "Place": "Fresno"
+  },
+  {
+    "Clinton": 64980,
+    "Trump": 95064,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Kern",
+    "Vote by town": "",
+    "Place": "Kern"
+  },
+  {
+    "Clinton": 116027,
+    "Trump": 37421,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Sonoma",
+    "Vote by town": "",
+    "Place": "Sonoma"
+  },
+  {
+    "Clinton": 71349,
+    "Trump": 56194,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Joaquin",
+    "Vote by town": "",
+    "Place": "San Joaquin"
+  },
+  {
+    "Clinton": 79015,
+    "Trump": 41481,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Solano",
+    "Vote by town": "",
+    "Place": "Solano"
+  },
+  {
+    "Clinton": 72605,
+    "Trump": 38973,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Santa Barbara",
+    "Vote by town": "",
+    "Place": "Santa Barbara"
+  },
+  {
+    "Clinton": 51171,
+    "Trump": 52567,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Stanislaus",
+    "Vote by town": "",
+    "Place": "Stanislaus"
+  },
+  {
+    "Clinton": 43915,
+    "Trump": 55212,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Placer",
+    "Vote by town": "",
+    "Place": "Placer"
+  },
+  {
+    "Clinton": 46965,
+    "Trump": 39263,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Luis Obispo",
+    "Vote by town": "",
+    "Place": "San Luis Obispo"
+  },
+  {
+    "Clinton": 64333,
+    "Trump": 13127,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Marin",
+    "Vote by town": "",
+    "Place": "Marin"
+  },
+  {
+    "Clinton": 60529,
+    "Trump": 14523,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Santa Cruz",
+    "Vote by town": "",
+    "Place": "Santa Cruz"
+  },
+  {
+    "Clinton": 31638,
+    "Trump": 35354,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Butte",
+    "Vote by town": "",
+    "Place": "Butte"
+  },
+  {
+    "Clinton": 47387,
+    "Trump": 19580,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Monterey",
+    "Vote by town": "",
+    "Place": "Monterey"
+  },
+  {
+    "Clinton": 28026,
+    "Trump": 37286,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "El Dorado",
+    "Vote by town": "",
+    "Place": "El Dorado"
+  },
+  {
+    "Clinton": 23663,
+    "Trump": 33372,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Tulare",
+    "Vote by town": "",
+    "Place": "Tulare"
+  },
+  {
+    "Clinton": 15533,
+    "Trump": 35256,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Shasta",
+    "Vote by town": "",
+    "Place": "Shasta"
+  },
+  {
+    "Clinton": 34460,
+    "Trump": 13178,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Yolo",
+    "Vote by town": "",
+    "Place": "Yolo"
+  },
+  {
+    "Clinton": 21856,
+    "Trump": 18486,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Merced",
+    "Vote by town": "",
+    "Place": "Merced"
+  },
+  {
+    "Clinton": 13283,
+    "Trump": 19221,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Madera",
+    "Vote by town": "",
+    "Place": "Madera"
+  },
+  {
+    "Clinton": 19596,
+    "Trump": 10883,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Humboldt",
+    "Vote by town": "",
+    "Place": "Humboldt"
+  },
+  {
+    "Clinton": 16199,
+    "Trump": 14686,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Nevada",
+    "Vote by town": "",
+    "Place": "Nevada"
+  },
+  {
+    "Clinton": 20454,
+    "Trump": 9335,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Napa",
+    "Vote by town": "",
+    "Place": "Napa"
+  },
+  {
+    "Clinton": 9077,
+    "Trump": 13158,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Kings",
+    "Vote by town": "",
+    "Place": "Kings"
+  },
+  {
+    "Clinton": 14331,
+    "Trump": 5607,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Imperial",
+    "Vote by town": "",
+    "Place": "Imperial"
+  },
+  {
+    "Clinton": 7599,
+    "Trump": 10947,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Sutter",
+    "Vote by town": "",
+    "Place": "Sutter"
+  },
+  {
+    "Clinton": 6740,
+    "Trump": 11064,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Calaveras",
+    "Vote by town": "",
+    "Place": "Calaveras"
+  },
+  {
+    "Clinton": 7075,
+    "Trump": 10614,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Tuolumne",
+    "Vote by town": "",
+    "Place": "Tuolumne"
+  },
+  {
+    "Clinton": 4764,
+    "Trump": 10528,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Tehama",
+    "Vote by town": "",
+    "Place": "Tehama"
+  },
+  {
+    "Clinton": 5115,
+    "Trump": 8869,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Yuba",
+    "Vote by town": "",
+    "Place": "Yuba"
+  },
+  {
+    "Clinton": 5252,
+    "Trump": 8392,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Siskiyou",
+    "Vote by town": "",
+    "Place": "Siskiyou"
+  },
+  {
+    "Clinton": 6240,
+    "Trump": 5752,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Lake",
+    "Vote by town": "",
+    "Place": "Lake"
+  },
+  {
+    "Clinton": 6751,
+    "Trump": 4358,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "San Benito",
+    "Vote by town": "",
+    "Place": "San Benito"
+  },
+  {
+    "Clinton": 6905,
+    "Trump": 3571,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Mendocino",
+    "Vote by town": "",
+    "Place": "Mendocino"
+  },
+  {
+    "Clinton": 3420,
+    "Trump": 6069,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Amador",
+    "Vote by town": "",
+    "Place": "Amador"
+  },
+  {
+    "Clinton": 3224,
+    "Trump": 5079,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Plumas",
+    "Vote by town": "",
+    "Place": "Plumas"
+  },
+  {
+    "Clinton": 1881,
+    "Trump": 6155,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Lassen",
+    "Vote by town": "",
+    "Place": "Lassen"
+  },
+  {
+    "Clinton": 2997,
+    "Trump": 4370,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Del Norte",
+    "Vote by town": "",
+    "Place": "Del Norte"
+  },
+  {
+    "Clinton": 2568,
+    "Trump": 4317,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Mariposa",
+    "Vote by town": "",
+    "Place": "Mariposa"
+  },
+  {
+    "Clinton": 2499,
+    "Trump": 3328,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Inyo",
+    "Vote by town": "",
+    "Place": "Inyo"
+  },
+  {
+    "Clinton": 1766,
+    "Trump": 3405,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Glenn",
+    "Vote by town": "",
+    "Place": "Glenn"
+  },
+  {
+    "Clinton": 2551,
+    "Trump": 1989,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Mono",
+    "Vote by town": "",
+    "Place": "Mono"
+  },
+  {
+    "Clinton": 1832,
+    "Trump": 2709,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Colusa",
+    "Vote by town": "",
+    "Place": "Colusa"
+  },
+  {
+    "Clinton": 1876,
+    "Trump": 2409,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Trinity",
+    "Vote by town": "",
+    "Place": "Trinity"
+  },
+  {
+    "Clinton": 798,
+    "Trump": 2413,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Modoc",
+    "Vote by town": "",
+    "Place": "Modoc"
+  },
+  {
+    "Clinton": 596,
+    "Trump": 1044,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Sierra",
+    "Vote by town": "",
+    "Place": "Sierra"
+  },
+  {
+    "Clinton": 318,
+    "Trump": 211,
+    "Rpt": 100,
+    "State": "California",
+    "Vote by county": "Alpine",
+    "Vote by town": "",
+    "Place": "Alpine"
+  }
+]
