@@ -1,4 +1,4 @@
-# 2017 Presedential Election Results from California by County
+# 2017 Presidential Election Results from California by County
 
 ## Start
 
