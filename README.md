@@ -1,4 +1,5 @@
-# 2017 Presidential Election Results from California by County
+# CA Vote By County Presidential Election 2016
+visualization of election results in California by county
 
 ## Start
 
