@@ -37,6 +37,13 @@ module.exports = {
     filename: '[name].js',
     publicPath: '/'
   },
+  resolve: {
+    alias: {
+      src: path.resolve(__dirname, "src"),
+      data: path.resolve(__dirname, "data")
+    },
+    extensions: [".js"]
+  },
   plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve('src', 'index.tpl.html'),
@@ -46,5 +53,14 @@ module.exports = {
   ],
   module: {
     loaders: loaders
+  },
+  devServer: {
+    hot: true,
+    stats: {
+      colors: true
+    }
+  },
+  node: {
+    fs: "empty"
   }
 };
