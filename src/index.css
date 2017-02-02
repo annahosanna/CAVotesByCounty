@@ -11,3 +11,10 @@
   stroke-linecap: round;
   pointer-events: none;
 }
+.state {
+  width: 200px;
+  fill: green;
+}
+.container {
+  overflow: visible;
+}

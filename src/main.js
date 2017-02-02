@@ -1,5 +1,5 @@
 import React from 'react';
-import {render} from 'react-dom';
-import HelloWorld from './HelloWorld.js';
+import { render } from 'react-dom';
+import CA from './ca.js';
 
-render(<HelloWorld/>, document.querySelector('#app'));
+render(<CA/>, document.querySelector('#app'));
