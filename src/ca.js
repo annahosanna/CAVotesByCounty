@@ -28,7 +28,7 @@ const CA = () => {
   var projection = d3.geoMercator().scale(scale)
   var path = d3.geoPath().projection(projection);
 
-  let features = state.objects.subunits.geometries.map(g => topojson.feature(state, g))
+  let features = state.objects.counties.geometries.map(g => topojson.feature(state, g))
 
   let paths = features.map(feature => {
     return <path key={Math.random()}
