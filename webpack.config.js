@@ -23,6 +23,9 @@ var loaders = [
   {
     "test": /\.csv?$/,
     "loader": "csv-loader"
+  }, {
+    "test": /\.json?$/,
+    "loader": "json-loader"
   }
 ];
 
