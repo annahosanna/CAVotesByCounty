@@ -1,12 +1,13 @@
 var path = require('path');
 var webpack = require('webpack');
+var HotModuleReplacementPlugin = webpack.HotModuleReplacementPlugin;
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 
 var loaders = [
   {
     "test": /\.js?$/,
     "exclude": /node_modules/,
-    "loader": "babel",
+    "loader": "babel-loader",
     "query": {
       "presets": [
         "es2015",
@@ -18,7 +19,7 @@ var loaders = [
   },
   {
     "test": /\.css?$/,
-    "loader": "style!css"
+    "loader": "style-loader!css-loader"
   },
   {
     "test": /\.csv?$/,
@@ -31,7 +32,14 @@ var loaders = [
 
 module.exports = {
   devtool: 'eval-source-map',
-  entry: path.resolve('src', 'main.js'),
+  entry: {
+    main: [
+      "babel-polyfill",
+      "react-hot-loader/patch",
+      "webpack-dev-server/client?http://localhost:8080",
+      path.resolve('src', 'main.js')
+    ]
+  },
   output: {
     path: path.resolve('build'),
     filename: '[name].js',
@@ -49,7 +57,8 @@ module.exports = {
       template: path.resolve('src', 'index.tpl.html'),
       inject: 'body',
       filename: 'index.html'
-    })
+    }),
+    new HotModuleReplacementPlugin()
   ],
   module: {
     loaders: loaders
