@@ -46,7 +46,7 @@ export default class CA extends Component {
     }
   }
   render() {
-    mergeData()
+    let _state = mergeData()
     let scale = 3000
     let t1 = scale * 2.08
     let t2 = scale * .73
@@ -54,7 +54,7 @@ export default class CA extends Component {
     var projection = d3.geoMercator().scale(scale)
     var path = d3.geoPath().projection(projection);
 
-    let features = state.objects.counties.geometries.map(g => topojson.feature(state, g))
+    let features = _state.objects.counties.geometries.map(g => topojson.feature(state, g))
     let getColor = (clinton, trump) => {
       if (clinton > trump) {
         return "blue"
@@ -82,22 +82,22 @@ export default class CA extends Component {
     })
 
     return <Container>
-      <Row>
-        <Column>
-        <Header>
-        <h1>2016 Presidential Election</h1>
-        <H3>votes per county</H3>
-      </Header>
-      <Stats>
-         <h1>{this.state.selected}</h1>
-         <Number color="blue">{`${numeral(this.state.clinton).format('0,0')}`}</Number>
-         <Number color="red">{`${numeral(this.state.trump).format('0,0')}`}</Number>
-       </Stats>
-     </Column>
-          <svg  height="90vh" width="50vw"  className="container">
-           {paths}
-          </svg>
-        </Row>
-        </Container>
+              <Row>
+                <Column>
+                  <Header>
+                    <h1>2016 Presidential Election</h1>
+                    <H3>votes per county</H3>
+                  </Header>
+                  <Stats>
+                     <h1>{this.state.selected}</h1>
+                     <Number color="blue">{`${numeral(this.state.clinton).format('0,0')}`}</Number>
+                     <Number color="red">{`${numeral(this.state.trump).format('0,0')}`}</Number>
+                 </Stats>
+               </Column>
+                  <svg  height="90vh" width="50vw"  className="container">
+                   {paths}
+                  </svg>
+                </Row>
+           </Container>
   }
 }

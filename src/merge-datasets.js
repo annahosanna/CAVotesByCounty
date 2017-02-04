@@ -13,5 +13,6 @@ export const mergeData = () => {
     countiesTopoData[i].properties.trump = countiesVoterData[i].trump
     countiesTopoData[i].properties.countyInfo = countiesVoterData[i].name
   }
-  return countiesTopoData
+  _state.objects.counties.geometries = countiesTopoData
+  return _state
 }
